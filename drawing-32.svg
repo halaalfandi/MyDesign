@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="drawing-32.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.50333193"
+     inkscape:cx="394.37196"
+     inkscape:cy="562.25322"
+     inkscape:window-width="1360"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:0.71;fill:#573800;fill-opacity:1;stroke:#694910;stroke-width:0.865;paint-order:fill markers stroke;stop-color:#000000;stroke-opacity:1"
+       d="M 91.465484,71.490266 C 66.323723,80.390568 43.259221,103.61562 80.426549,143.50618 120.81036,124.67818 59.204269,107.14183 91.991151,71.490256"
+       id="path790"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="opacity:0.71;fill:#674200;fill-opacity:1;stroke:#694910;stroke-width:0.865;paint-order:fill markers stroke;stop-color:#000000;stroke-opacity:1"
+       d="M 88.840031,141.92823 C 114.86895,136.11283 140.55658,112.6729 108.45076,68.606098 58.903558,78.849191 125.15065,110.41063 88.318171,141.86509"
+       id="path790-2"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 75.16991,178.2 v 0"
+       id="path1073"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#674200;stroke-width:3.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.70980394;stroke-dasharray:none"
+       d="M 130.89027,70.964601 C 107.29019,59.801296 81.781854,79.556394 62.028318,74.644246"
+       id="path1075"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:64.5057px;font-family:'Informal Roman';-inkscape-font-specification:'Informal Roman, Normal';opacity:0.71;fill:#674200;fill-opacity:1;stroke:#674200;stroke-width:3.06501;stroke-dasharray:none;stroke-opacity:0.709804;paint-order:fill markers stroke;stop-color:#000000;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="31.014162"
+       y="188.71327"
+       id="text2604"><tspan
+         sodipodi:role="line"
+         id="tspan2602"
+         style="stroke-width:3.065;-inkscape-font-specification:'Informal Roman, Normal';font-family:'Informal Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:64.50570008px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="31.014162"
+         y="188.71327">TITO</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#674200;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.70980394"
+       d="M 33.116813,187.13628 C 70.493115,280.61207 274.33871,124.85272 130.89026,70.438938"
+       id="path2656"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
